@@ -23,6 +23,6 @@ optional arguments:
 ```
 
 Note: Tested for `Python >= 3.7`. Example:
-```console
+```shell
 $ python tableSetup.py finance historical_data example_schema.json example_data.json
 ```
